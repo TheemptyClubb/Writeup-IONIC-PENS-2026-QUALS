@@ -6,3 +6,7 @@ Writeup Capture The Flag tantangan CyberSecurity terdiri dari PWN, Forensics, Re
 yang diselenggarakan oleh Perguruan Tinggi Negeri Politeknik Elektronika Negeri Surabaya
 
 Writeup Shootout to me & @meowthekid
+
+Hokago Tea Time 
+
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/0fcf8e9b-d1dc-4ef6-bf19-ee334ab01cab" />
