@@ -5,7 +5,7 @@ Writeup Capture The Flag tantangan CyberSecurity terdiri dari PWN, Forensics, Re
 Writeup Capture The Flag tantangan CyberSecurity terdiri dari PWN, Forensics, Reverse Engineering, Web exploitation dan Misc
 yang diselenggarakan oleh Perguruan Tinggi Negeri Politeknik Elektronika Negeri Surabaya
 
-Writeup Shootout to me & [@meowthekid]([https://github.com](https://github.com/meowthekid))
+Writeup Shootout to me & [@meowthekid](https://github.com/meowthekid))
 
 Hokago Tea Time 
 
